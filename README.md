@@ -1,8 +1,9 @@
 # CoffeeSpace's Nginx Proxy for Mixpanel
 CoffeeSpace's nginx config that serves as a proxy to Mixpanel's Ingestion API and JavaScript library endpoints. 
 Some resources: 
-[Mixpanel- Collection Via Proxy](https://developer.mixpanel.com/docs/self-hosted-tracking).  
-[GitHub Sample Nginx Proxy](https://github.com/mixpanel/tracking-proxy).  
+[Mixpanel- Collection Via Proxy](https://developer.mixpanel.com/docs/self-hosted-tracking).  \ 
+[GitHub Sample Nginx Proxy](https://github.com/mixpanel/tracking-proxy).  \ 
+[Mixpanel Infrastructure doc](https://docs.google.com/document/d/1DIVXKxiydzp4QxL3D0d0M1sMy6AL47amYa3wOr25c6A/edit). \   
 
 
 ## Installation
