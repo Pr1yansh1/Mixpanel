@@ -3,7 +3,7 @@ spec:
  services:
  - name: coffeespace-mixpanel-proxy
    git:
-     branch: master
+     branch: main
      repo_clone_url:https://github.com/Pr1yansh1/Mixpanel.git
    dockerfile_path: ./Dockerfile
    http_port: 80
