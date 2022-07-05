@@ -11,7 +11,7 @@ Some resources:
 There are a few ways you can use this repo to deploy a server that can be use to proxy Mixpanel API requests: one-click deploy to cloud, build a docker image, or copy and paste the nginx settings to your own nginx config file.
 
 ### Option 1: One-click Deploy
-   - [Deploy to DigitalOcean](https://cloud.digitalocean.com/apps/new?repo=https://github.com/https://github.com/Counselab-Inc/Mixpanel-Proxy/tree/main)
+   - [![Deploy to Digital Ocean](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/Pr1yansh1/Mixpanel/tree/main)
    
 ### Option 2: Docker Image
    Assuming you have Docker installed on your system, for production, deploy this docker image to whatever servers contain the production services. 
