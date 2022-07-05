@@ -17,4 +17,4 @@ There are a few ways you can use this repo to deploy a server that can be use to
    Assuming you have Docker installed on your system, for production, deploy this docker image to whatever servers contain the production services. 
 
 ### Option 3: Add locations to your existing Nginx config
-   If you already have servers running nginx, you can copy and paste the locations from the [nginx.conf](todo: insert correct link) file in this repo and adjust the locations to match your preference.
+   If you already have servers running nginx, you can copy and paste the locations from the [nginx.conf](https://github.com/Counselab-Inc/Mixpanel-Proxy/blob/master/nginx.conf) file in this repo and adjust the locations to match your preference.
