@@ -1,9 +1,9 @@
 spec:
- name: mixpanel-api-proxy
+ name: coffeespace-mixpanel-proxy
  services:
- - name: mixpanel-api-proxy
+ - name: coffeespace-mixpanel-proxy
    git:
      branch: master
-     repo_clone_url: https://github.com/mixpanel/tracking-proxy.git
+     repo_clone_url:https://github.com/Pr1yansh1/Mixpanel.git
    dockerfile_path: ./Dockerfile
    http_port: 80
